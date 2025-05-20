@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\bin\Debug\net9.0\Student.exe
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\bin\Debug\net9.0\Student.deps.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\bin\Debug\net9.0\Student.runtimeconfig.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\bin\Debug\net9.0\Student.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\bin\Debug\net9.0\Student.pdb
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.AssemblyInfo.cs
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.sourcelink.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\refint\Student.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.pdb
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.genruntimeconfig.cache
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\ref\Student.dll

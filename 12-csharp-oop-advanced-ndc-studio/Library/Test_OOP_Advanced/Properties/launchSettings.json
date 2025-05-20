@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Test_OOP_Advanced": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true
+    }
+  }
+}

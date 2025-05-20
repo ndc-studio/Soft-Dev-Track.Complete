@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.AssemblyInfo.cs
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.sourcelink.json
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\bin\Debug\net9.0\Solution.exe
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\bin\Debug\net9.0\Solution.deps.json
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\bin\Debug\net9.0\Solution.runtimeconfig.json
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\bin\Debug\net9.0\Solution.dll
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\bin\Debug\net9.0\Solution.pdb
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.dll
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\refint\Solution.dll
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.pdb
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\Solution.genruntimeconfig.cache
+C:\Users\marti\Desktop\15-csharp-collections-ndc-studio\3.EventRegistrationSystem\Solution\obj\Debug\net9.0\ref\Solution.dll

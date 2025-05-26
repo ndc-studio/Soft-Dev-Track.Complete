@@ -7,7 +7,6 @@ C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Deb
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.AssemblyInfoInputs.cache
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.AssemblyInfo.cs
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.csproj.CoreCompileInputs.cache
-C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.sourcelink.json
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\refint\Student.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Student\obj\Debug\net9.0\Student.pdb

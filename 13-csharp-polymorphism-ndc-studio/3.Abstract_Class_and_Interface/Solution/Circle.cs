@@ -1,5 +1,3 @@
-using System.Text.RegularExpressions;
-
 using System;
 
 namespace ShapeSpace
@@ -13,16 +11,14 @@ namespace ShapeSpace
             Radius = radius;
         }
 
-        public override void CalculateArea()
+        public override string CalculateArea()
         {
-            double result = Math.Round(Math.PI * Math.Sqrt(Radius), 2);
-
-            Console.WriteLine($"The size of the area's circle is : {result}\n");
+            return $"The size of the area's circle is : {Math.PI * (Radius * Radius)}\n";
         }
 
-        public override void Paint(string color)
+        public override string Paint(string color)
         {
-            Console.WriteLine($"The circle has been painted in {color}");
+            return $"The circle has been painted in {color}";
         }
     }
 }

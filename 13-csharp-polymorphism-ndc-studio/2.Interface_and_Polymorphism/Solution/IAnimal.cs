@@ -2,11 +2,11 @@ namespace AnimalSpace
 {
     public interface IAnimal
     {
-        void MakeNoise();
+        string MakeNoise();
     }
 
     public abstract class Animal : IAnimal
     {
-        public abstract void MakeNoise();
+        public abstract string MakeNoise();
     }
 }

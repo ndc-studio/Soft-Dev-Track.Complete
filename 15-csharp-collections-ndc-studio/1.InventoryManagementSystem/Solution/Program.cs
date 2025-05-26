@@ -24,13 +24,13 @@ namespace ImsSpace
             store.AddArticle(raisins);
 
             /* Display all items of the store */
-            store.Display();
+            Console.WriteLine(store.Display());
 
             /* Display the items are low quantity (> 10) */
-            store.LowCapacity();
+            Console.WriteLine(store.LowCapacity());
 
             /* Exit system */
-            Console.WriteLine("\n\n |    EXIT    | \n");
+            Console.WriteLine(" |    EXIT    | ");
             Console.WriteLine("Press any key...");
             Console.ReadKey();
         }

@@ -1,16 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\13-csharp-polymorphism-ndc-studio",
-    "\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism",
-    "\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution",
-    "\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism",
-    "\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution",
-    "\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface",
-    "\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution",
-    "\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection",
-    "\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution"
+    "\\14-csharp-oop-structsrecords-ndc-studio",
+    "\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics",
+    "\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution",
+    "\\15-csharp-collections-ndc-studio",
+    "\\15-csharp-collections-ndc-studio\\1.InventoryManagementSystem",
+    "\\15-csharp-collections-ndc-studio\\1.InventoryManagementSystem\\Solution",
+    "\\15-csharp-collections-ndc-studio\\2.LibraryBookTracer",
+    "\\15-csharp-collections-ndc-studio\\3.EventRegistrationSystem",
+    "\\16-csharp-generics-ndc-studio",
+    "\\16-csharp-generics-ndc-studio\\GenericProject",
+    "\\16-csharp-generics-ndc-studio\\GenericProject\\Tests"
   ],
-  "SelectedNode": "\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Rectangle.cs",
+  "SelectedNode": "\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

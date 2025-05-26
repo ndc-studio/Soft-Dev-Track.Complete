@@ -90,10 +90,16 @@ C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\ob
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.AssemblyInfoInputs.cache
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.AssemblyInfo.cs
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.csproj.CoreCompileInputs.cache
-C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.sourcelink.json
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Stu.65167FD3.Up2Date
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\refint\Test_Student.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.pdb
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\Test_Student.genruntimeconfig.cache
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\obj\Debug\net9.0\ref\Test_Student.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Test_Student
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\CoverletSourceRootsMapping_Test_Student
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\Student.deps.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\Student.runtimeconfig.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\Student.exe
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\Student.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\Student\Test_Student\bin\Debug\net9.0\Student.pdb

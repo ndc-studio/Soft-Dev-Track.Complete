@@ -9,9 +9,9 @@ namespace GenericSpace
 
     public class Greeter<T> where T : IHasName
     {
-        public void Greet(T person)
+        public string Greet(T person)
         {
-            Console.WriteLine($"Hello {person.Name}");
+            return $"Hello {person.Name}";
         }
     }
 

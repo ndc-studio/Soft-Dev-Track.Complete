@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\16-csharp-generics-ndc-studio\\genericproject\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\16-csharp-generics-ndc-studio\\genericproject\\solution\\ihasname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|solutionrelative:solution\\ihasname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6DCBF6-F43E-4069-97B6-9A01DBD37B02}|Tests\\Tests.csproj|c:\\users\\marti\\desktop\\16-csharp-generics-ndc-studio\\genericproject\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6DCBF6-F43E-4069-97B6-9A01DBD37B02}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\16-csharp-generics-ndc-studio\\genericproject\\solution\\filterutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BE041-EA4E-4041-94D1-7946873F6CDA}|Solution\\Solution.csproj|solutionrelative:solution\\filterutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wDMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:36:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterUtility.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\FilterUtility.cs",
+              "RelativeDocumentMoniker": "Solution\\FilterUtility.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\FilterUtility.cs",
+              "RelativeToolTip": "Solution\\FilterUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:34:37.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ceab60b6-c8ea-4b7a-b606-d67a69db8d2c",
+        "Display": 2,
+        "X": 110,
+        "Y": 261,
+        "Width": 1704,
+        "Height": 776,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:36:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHasName.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\IHasName.cs",
+              "RelativeDocumentMoniker": "Solution\\IHasName.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\16-csharp-generics-ndc-studio\\GenericProject\\Solution\\IHasName.cs",
+              "RelativeToolTip": "Solution\\IHasName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:41:26.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

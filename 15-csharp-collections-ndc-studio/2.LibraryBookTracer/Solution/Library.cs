@@ -17,22 +17,21 @@ namespace LibrarySpace
             Books = [];
         }
 
-        public void AddBook(Book book)
+        public string AddBook(Book book)
         {
             if (Books.Contains(book))
             {
-                Console.WriteLine($"\nThe book {book.Title} already exist.");
-                return;
+                return $"\nThe book {book.Title} already exist.";
             }
             else
             {
                 AllowedBookTitle.Add(book.Title);
                 Books.Add(book);
-                Console.WriteLine($"\nThe book {book.Title} has been added successfully");
+                return $"\nThe book {book.Title} has been added successfully";
             }
         }
 
-        public void RemoveBook(Book book)
+        public string RemoveBook(Book book)
         {
             if (Books.Contains(book))
             {
@@ -47,43 +46,42 @@ namespace LibrarySpace
                 }
 
                 Books.Remove(book);
-                Console.WriteLine($"\nThe book {book.Title} has been deleted successfully");
+                return $"\nThe book {book.Title} has been deleted successfully";
             }
 
             else
             {
-                Console.WriteLine($"\nThe book {book.Title} does not exist.");
-                return;
+                return $"\nThe book {book.Title} does not exist.";
             }
         }
 
-        public void BorrowBook(Book book)
+        public string BorrowBook(Book book)
         {
             if (BorrowedBookTitle.Contains(book.Title))
             {
-                Console.WriteLine($"\nThe book {book.Title} is already borrowed!");
+                return $"\nThe book {book.Title} is already borrowed!";
             }
             else
             {
                 book.IsBorrowed = true;
                 BorrowedBookTitle.Add(book.Title);
                 AllowedBookTitle.Remove(book.Title);
-                Console.WriteLine($"\nThe book {book.Title} has been borrowed sucessfully!");
+                return $"\nThe book {book.Title} has been borrowed sucessfully!";
             }
         }
 
-        public void ReturnBook(Book book)
+        public string ReturnBook(Book book)
         {
             if (BorrowedBookTitle.Contains(book.Title))
             {
                 book.IsBorrowed = false;
                 BorrowedBookTitle.Remove(book.Title);
                 AllowedBookTitle.Add(book.Title);
-                Console.WriteLine($"\nThe book {book.Title} has been returned sucessfully!");
+                return $"\nThe book {book.Title} has been returned sucessfully!";
             }
             else
             {
-                Console.WriteLine($"\nThe book {book.Title} is already available!");
+                return $"\nThe book {book.Title} is already available!";
             }
         }
 

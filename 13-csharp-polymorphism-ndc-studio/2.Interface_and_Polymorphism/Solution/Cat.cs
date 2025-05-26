@@ -2,9 +2,9 @@ namespace AnimalSpace
 {
     public class Cat : Animal
     {
-        public override void MakeNoise()
+        public override string MakeNoise()
         {
-            Console.WriteLine("Meows");
+            return "Meows";
         }
     }
 }

@@ -9,9 +9,9 @@ namespace EngineSpace
             _engine = engine;
         }
 
-        public void Start()
+        public string Start()
         {
-            _engine.Function();
+            return $"{(_engine.Function())}";
         }
     }
 }

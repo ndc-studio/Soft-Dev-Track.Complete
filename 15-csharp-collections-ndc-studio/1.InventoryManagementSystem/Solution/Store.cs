@@ -29,28 +29,24 @@
             }
         }
 
-        public void LowCapacity()
+        public string LowCapacity()
         {
-            Console.WriteLine("\n\n--------------------\n");
             foreach (var item in Articles)
             {
                 if (item.Value < 10)
                 {
-                    Console.WriteLine($"The quantity of {item.Key} is too low!\nQuantity = {item.Value}\n");
+                    return $"The quantity of {item.Key} is too low!\nQuantity = {item.Value}\n";
                 }
             }
-            Console.WriteLine("--------------------\n");
+            return "";
         }
-        public void Display()
+        public string Display()
         {
-            Console.WriteLine("\n--------------------");
-            Console.WriteLine("\n| Stock of store |");
-            Console.WriteLine("\n--------------------");
             foreach (var item in Articles)
             {
-                Console.WriteLine($"\n•{item.Key}: {item.Value}");
+                return $"\n•{item.Key}: {item.Value}";
             }
-            Console.WriteLine("\n--------------------");
+            return "";
         }
     }
 }

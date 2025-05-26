@@ -2,9 +2,9 @@ namespace EngineSpace
 {
     public class GasolineEngine : Engine
     {
-        public override void Function()
+        public override string Function()
         {
-            Console.WriteLine("This engine runs on gasoline.");
+            return "This engine runs on gasoline.";
         }
     }
 }

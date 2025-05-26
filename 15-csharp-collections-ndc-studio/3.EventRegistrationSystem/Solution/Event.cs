@@ -12,16 +12,16 @@ namespace EventSpace
             Events = new List<(string, string)>();
         }
 
-        public void AddParticipant(Participant participant, string eventName)
+        public string AddParticipant(Participant participant, string eventName)
         {
             string participantName = participant.Name;
 
             Events.Add((eventName, participantName));
 
-            Console.WriteLine($"\n{participantName} has been added successfully");
+            return $"\n{participantName} has been added successfully";
         }
 
-        public void DeleteParticipant(Participant participant)
+        public string DeleteParticipant(Participant participant)
         {
             string participantName = participant.Name;
 
@@ -30,10 +30,9 @@ namespace EventSpace
                 if (Events[i].participantName == participantName)
                 {
                     Events.RemoveAt(i);
-                    Console.WriteLine($"{participantName} has been removed successfully");
-                    return;
                 }
             }
+            return $"{participantName} has been removed successfully";
         }
 
         public void DisplayParticipantsOfEvent(string name)

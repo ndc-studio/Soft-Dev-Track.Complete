@@ -1,4 +1,6 @@
-﻿namespace LibrarySpace
+﻿using System;
+
+namespace LibrarySpace
 {
     public class Program
     {
@@ -14,31 +16,31 @@
 
             Library library = new Library();
             Console.WriteLine("\n----------------------");
-            Console.WriteLine("[CREATE FEW BOOKS]");
-            library.AddBook(book1);
-            library.AddBook(book2);
-            library.AddBook(book3);
-            library.AddBook(book4);
-            library.AddBook(book5);
-            library.AddBook(book5);
-            library.AddBook(book6);
+            Console.WriteLine("[ADD BOOKS]");
+            Console.WriteLine(library.AddBook(book1));
+            Console.WriteLine(library.AddBook(book2));
+            Console.WriteLine(library.AddBook(book3));
+            Console.WriteLine(library.AddBook(book4));
+            Console.WriteLine(library.AddBook(book5));
+            Console.WriteLine(library.AddBook(book5));
+            Console.WriteLine(library.AddBook(book6));
             Console.WriteLine("\n----------------------");
 
             Console.WriteLine("\n----------------------");
             Console.WriteLine("[REMOVE BOOK]");
-            library.RemoveBook(book6);
+            Console.WriteLine(library.RemoveBook(book6));
             Console.WriteLine("\n----------------------");
 
             Console.WriteLine("\n----------------------");
             Console.WriteLine("[BORROW BOOKS]");
-            library.BorrowBook(book4);
-            library.BorrowBook(book5);
-            library.BorrowBook(book2);
+            Console.WriteLine(library.BorrowBook(book4));
+            Console.WriteLine(library.BorrowBook(book5));
+            Console.WriteLine(library.BorrowBook(book2));
             Console.WriteLine("\n----------------------");
 
             Console.WriteLine("\n----------------------");
             Console.WriteLine("[RETURN BOOK]");
-            library.ReturnBook(book5);
+            Console.WriteLine(library.ReturnBook(book5));
             Console.WriteLine("\n----------------------");
 
             Console.WriteLine("\n----------------------");

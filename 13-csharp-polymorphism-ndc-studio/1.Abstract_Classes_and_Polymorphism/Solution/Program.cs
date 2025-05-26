@@ -25,7 +25,7 @@ namespace VehicleSpace
 
             foreach (var veh in Vehicles)
             {
-                veh.Start();
+                Console.WriteLine(veh.Start());
             }
 
             Console.WriteLine("\n\nPress any key for exiting the session...!\n");

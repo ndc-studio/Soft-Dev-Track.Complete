@@ -1,4 +1,4 @@
-﻿using System;
+﻿susing System;
 
 namespace AnimalSpace
 {
@@ -25,7 +25,7 @@ namespace AnimalSpace
 
             foreach (var animal in Animals)
             {
-                animal.MakeNoise();
+                Console.WriteLine(animal.MakeNoise());
             }
 
             Console.WriteLine("\n\nPress any key for exiting the session...!\n");

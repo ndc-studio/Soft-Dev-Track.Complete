@@ -2,9 +2,9 @@ namespace VehicleSpace
 {
     public class Motorcycle : Vehicle
     {
-        public override void Start()
+        public override string Start()
         {
-            Console.WriteLine("The motorcycle starts with a loud rev.");
+            return "The motorcycle starts with a loud rev.";
         }
     }
 }

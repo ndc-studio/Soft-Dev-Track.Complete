@@ -17,9 +17,9 @@ namespace LibrarySpace
             IsBorrowed = false;
         }
 
-        public void DisplayBook()
+        public string DisplayBook()
         {
-            Console.WriteLine($"\nTitle: {Title} - Author: {Author} - Type: {Type} - Availability: { (IsBorrowed ? "Unavailable" : "Available") }");
+            return $"\nTitle: {Title} - Author: {Author} - Type: {Type} - Availability: { (IsBorrowed ? "Unavailable" : "Available") }";
         }
     }
 }

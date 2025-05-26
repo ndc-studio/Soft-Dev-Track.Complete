@@ -81,5 +81,15 @@ namespace ManagementSystem
                 }
             }
         }
+
+        public List<Task> GetTasksByUser(string user)
+        {
+            return TaskList.Where(task => task.AssignedTo == user).ToList();
+        }
+
+        public List<Task> GetCompletedTasks()
+        {
+            return TaskList.Where(task => task.IsCompleted).ToList();
+        }
     }
 }

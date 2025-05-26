@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:48.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GasolineEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\GasolineEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DieselEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\DieselEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\4.Dependency_Injection\\Solution\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPaintable.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\IPaintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\3.Abstract_Class_and_Interface\\Solution\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:36.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\2.Interface_and_Polymorphism\\Solution\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:35.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Solution.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T19:00:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:30.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs",
+              "RelativeDocumentMoniker": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs",
+              "RelativeToolTip": "13-csharp-polymorphism-ndc-studio\\1.Abstract_Classes_and_Polymorphism\\Solution\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Solution.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "RelativeDocumentMoniker": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "RelativeToolTip": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T19:00:13.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "RelativeToolTip": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "RelativeDocumentMoniker": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "RelativeToolTip": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "RelativeDocumentMoniker": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "RelativeToolTip": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs",
+              "RelativeDocumentMoniker": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs",
+              "RelativeToolTip": "14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:00:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs",
+              "RelativeToolTip": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:59:53.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestVariables.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj",
+              "RelativeDocumentMoniker": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj",
+              "RelativeToolTip": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\TestVariables.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T18:59:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\CAMPUS\\1.TRAIL\\Soft-Dev-Track.Complete\\4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs",
+              "RelativeToolTip": "4-csharp-variables-ndc-studio\\Solution\\TestVariables\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:59:50.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

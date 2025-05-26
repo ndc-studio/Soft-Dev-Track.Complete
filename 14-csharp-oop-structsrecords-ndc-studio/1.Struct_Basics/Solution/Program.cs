@@ -22,12 +22,12 @@ namespace TwoDimension
             );
 
             // Test Rectangle (immutable struct with Area method)
-            var rect = new Rectangle(5, 3);
-            Console.WriteLine($"\nArea of rectangle: {rect.CalculateArea()}");
+            var rectangle = new Rectangle(5, 3);
+            Console.WriteLine(rectangle.CalculateArea());
 
             // Test Person (record with value-based equality)
             var person1 = new Person("Alice", 30);
-            var person2 = new Person("Alicee", 30);
+            var person2 = new Person("Alice", 30);
 
             Console.WriteLine("\nThe comparison value-based equality is: ");
             Console.WriteLine(person1 == person2);

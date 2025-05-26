@@ -34,7 +34,7 @@ namespace EngineSpace
             // Test Start method
             foreach (var c in Cars)
             {
-                c.Start();
+                Console.WriteLine(c.Start());
             }
 
             // Exit

@@ -9,7 +9,7 @@
 
             Console.WriteLine("\n----------------------------------");
             Console.WriteLine("\n[ TEST Box<T> Class ]\n");
-            intBox.DisplayValue();
+            Console.WriteLine(intBox.DisplayValue());
             Console.WriteLine("\n----------------------------------");
 
 
@@ -45,7 +45,7 @@
             }
             catch (Exception e)
             {
-                Console.WriteLine($"SCRIPT_ERROR: {e}");
+                Console.WriteLine($"SCRIPT_ERROR: {e.Message}");
             }
             Console.WriteLine("\n----------------------------------\n");
 
@@ -57,10 +57,10 @@
             var person3 = new Person("Lizzie");
             var person4 = new Person("Jhon");
 
-            greeter.Greet(person1);
-            greeter.Greet(person2);
-            greeter.Greet(person3);
-            greeter.Greet(person4);
+            Console.WriteLine(greeter.Greet(person1));
+            Console.WriteLine(greeter.Greet(person2));
+            Console.WriteLine(greeter.Greet(person3));
+            Console.WriteLine(greeter.Greet(person4));
             Console.WriteLine("\n----------------------------------\n");
 
             /* Test LINQ */

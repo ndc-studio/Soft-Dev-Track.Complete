@@ -4,16 +4,16 @@ namespace GenericSpace
 {
     public class Box<T>
     {
-        public T Value { get; set; }
+        public T? Value { get; set; }
 
         public Box(T value)
         {
             Value = value;
         }
 
-        public void DisplayValue()
+        public string DisplayValue()
         {
-            Console.WriteLine(Value);
+            return $"{Value}";
         }
 
         public override string ToString()

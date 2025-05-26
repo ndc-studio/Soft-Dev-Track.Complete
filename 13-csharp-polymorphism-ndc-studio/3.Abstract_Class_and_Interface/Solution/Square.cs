@@ -11,14 +11,14 @@ namespace ShapeSpace
             Side = side;
         }
 
-        public override void CalculateArea()
+        public override string CalculateArea()
         {
-            Console.WriteLine($"The size of the area's square is : {Side * Side}\n");
+            return $"The size of the area's square is : {Side * Side}\n";
         }
 
-        public override void Paint(string color)
+        public override string Paint(string color)
         {
-            Console.WriteLine($"The square has been painted in {color}");
+            return $"The square has been painted in {color}";
         }
     }
 }

@@ -4,15 +4,20 @@
     {
         public static void Main(String[] args)
         {
+            // Create school
+
             var school = new School();
             SchoolReport report = new();
 
+            // Create few students
             var student = new Student("Jhoe", 16);
             var student1 = new Student("Maxime", 17);
             var student2 = new Student("Camille", 15);
             var student3 = new Student("Mikey", 18);
             var student4 = new Student("Julien", 16);
 
+
+            // Add grade for all students
             student.AddGrade("History", 10);
             student.AddGrade("Math", 10);
             student.AddGrade("Philo", 10);
@@ -48,6 +53,7 @@
             student4.AddGrade("Philo", 10);
             student4.AddGrade("Sport", 10);
 
+            // Add all students into school
             school.AddStudent(student);
             school.AddStudent(student1);
             school.AddStudent(student2);

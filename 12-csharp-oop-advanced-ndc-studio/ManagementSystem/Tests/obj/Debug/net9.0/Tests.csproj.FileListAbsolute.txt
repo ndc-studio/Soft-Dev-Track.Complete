@@ -1,4 +1,9 @@
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Tests
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Tests
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\testhost.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\Solution.deps.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\Solution.runtimeconfig.json
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\Solution.exe
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
@@ -85,6 +90,8 @@ C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\Solution.dll
+C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\bin\Debug\net9.0\Solution.pdb
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\obj\Debug\net9.0\Tests.csproj.AssemblyReference.cache
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\obj\Debug\net9.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\marti\Desktop\12-csharp-oop-advanced-ndc-studio\ManagementSystem\Tests\obj\Debug\net9.0\Tests.AssemblyInfoInputs.cache

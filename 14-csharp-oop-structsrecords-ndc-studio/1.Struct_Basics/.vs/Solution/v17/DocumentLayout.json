@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD3E29-8B58-4DC4-B0FD-E576FABA6F0E}|Tests\\Tests.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD3E29-8B58-4DC4-B0FD-E576FABA6F0E}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\solution\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|solutionrelative:solution\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\solution\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|solutionrelative:solution\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\solution\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|solutionrelative:solution\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|c:\\users\\marti\\desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.struct_basics\\solution\\solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC1C6E5D-43D2-40D6-AE56-0D5588CF9220}|Solution\\Solution.csproj|solutionrelative:solution\\solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "RelativeDocumentMoniker": "Solution\\PointClass.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\PointClass.cs",
+              "RelativeToolTip": "Solution\\PointClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:03:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "RelativeDocumentMoniker": "Solution\\Point.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Point.cs",
+              "RelativeToolTip": "Solution\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:03:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Solution\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Rectangle.cs",
+              "RelativeToolTip": "Solution\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:59:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Solution",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "RelativeDocumentMoniker": "Solution\\Solution.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Solution.csproj",
+              "RelativeToolTip": "Solution\\Solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T16:56:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:55:57.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b457105b-1c03-4fcc-b65a-fa515de421a9",
+        "Display": 1,
+        "X": -391,
+        "Y": 394,
+        "Width": 1494,
+        "Height": 788,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\14-csharp-oop-structsrecords-ndc-studio\\1.Struct_Basics\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:56:18.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

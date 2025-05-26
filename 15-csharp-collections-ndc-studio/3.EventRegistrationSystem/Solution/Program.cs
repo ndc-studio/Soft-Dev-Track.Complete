@@ -18,12 +18,12 @@
 
             Console.WriteLine("\n----------------------");
             Console.WriteLine("\n[ADD PARTICIPANTS TO FEW EVENTS]");
-            ev.AddParticipant(p1, "Hackathon");
-            ev.AddParticipant(p2, "Hackathon");
-            ev.AddParticipant(p3, "Conférence");
-            ev.AddParticipant(p4, "Conférence");
-            ev.AddParticipant(p5, "EscapeGame");
-            ev.AddParticipant(p6, "EscapeGame");
+            Console.WriteLine(ev.AddParticipant(p1, "Hackathon"));
+            Console.WriteLine(ev.AddParticipant(p2, "Hackathon"));
+            Console.WriteLine(ev.AddParticipant(p3, "Conférence"));
+            Console.WriteLine(ev.AddParticipant(p4, "Conférence"));
+            Console.WriteLine(ev.AddParticipant(p5, "EscapeGame"));
+            Console.WriteLine(ev.AddParticipant(p6, "EscapeGame"));
             Console.WriteLine("\n----------------------");
 
             Console.WriteLine("\n----------------------");

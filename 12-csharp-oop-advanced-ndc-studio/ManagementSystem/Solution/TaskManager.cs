@@ -13,9 +13,10 @@ namespace ManagementSystem
             ProjectList = [];
         }
 
-        public void AddProject(Project project)
+        public string AddProject(Project project)
         {
             ProjectList.Add(project);
+            return $"The project named {project.Name} has been added successfully.";
         }
 
         public void GetTasksByAssignedUser(string user)
